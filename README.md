@@ -1,14 +1,6 @@
 # Pi4-E-paper-2.7_v2-weather-station
 
 
-
-# ProtoStax_Weather_Station_Demo
-Demo for ProtoStax Weather Station with ePaper Display and Raspberry Pi
-
-![ProtoStax Weather Station Demo](ProtoStax_Weather_Station_Demo.jpg)
-
-using [ProtoStax for Raspberry Pi B+](https://www.protostax.com/products/protostax-for-raspberry-pi-b)
-
 ## Prerequisites
 
 * Enable SPI on the Raspberry Pi

@@ -1,3 +1,9 @@
+
+![image](https://user-images.githubusercontent.com/24932503/149501325-35aeed48-e324-4011-8b6f-33985c6cb984.png)
+
+
+
+
 # Pi4-E-paper-2.7_v2-weather-station
 
 

@@ -13,6 +13,8 @@
  
 #   Written by Sridhar Rajagopal for ProtoStax.
 #   BSD license. All text above must be included in any redistribution
+
+#   Modified for e-paper 2.7 inch color V2 by J.C. Kleijn Jan 2022
 # *
 import sys
 sys.path.append(r'lib')
